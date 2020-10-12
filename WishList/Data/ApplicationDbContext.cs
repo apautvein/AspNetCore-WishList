@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using WishList.WishList.Models;
+using WishList.Models;
 
 namespace WishList.Data
 {
