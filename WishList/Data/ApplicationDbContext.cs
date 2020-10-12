@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using WishList.WishList.Models;
 
-namespace WishList.WishListData
+namespace WishList.Data
 {
     public class ApplicationDbContext : DbContext
     {
